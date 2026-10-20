@@ -25,6 +25,7 @@ neither is part of the program. No font is shipped.
 | `images/launcher.png`, `images/settings.png` | the port's launcher (its background is drawn by `source/tools/make_background.py`) | – | – |
 | `images/pause-menu.png` | the port's pause menu over the game | the game's pictures are © their respective owners; shown for identification | – |
 | `images/title.png`, `images/story.png`, `images/map.png`, `images/puzzle.png` | pictures of the game running in this port | the game's pictures are © their respective owners; shown for identification | – |
+| `images/cover.jpg` | front cover of *Sorcerer's Maze (USA)*, SLUS-01495 | © its respective owners; shown for identification | [PSX Data Center](https://psxdatacenter.com/games/U/S/SLUS-01495.html) |
 
 The game's own files (code, graphics, sound, text, data) are not included;
 they are read from the player's own disc.

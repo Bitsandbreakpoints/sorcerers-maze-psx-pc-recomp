@@ -10,8 +10,13 @@ Windows, with no emulator and no BIOS, and the port adds sharper graphics,
 a pause menu and a number of quality-of-life improvements.
 
 **You need your own copy of the game.** The port reads the graphics, sound,
-text and data from a disc image that you make from your own original disc
-(*Sorcerer's Maze (USA)*, SLUS-01495).
+text and data from a disc image that you make from your own original disc.
+
+<p align="center">
+  <img src="images/cover.jpg" alt="Sorcerer's Maze (USA), PlayStation, SLUS-01495 - front cover" width="320">
+  <br>
+  <em>The game this port needs: Sorcerer's Maze (USA), SLUS-01495. Cover © its respective owners.</em>
+</p>
 
 ## Download
 
@@ -53,8 +58,9 @@ respective owners.*
   music, text or data files from the game, and no BIOS. It holds this
   README, the third-party licence list, the source code of the port (see
   [Source code](#source-code)) and pictures: our banner, the launcher (our
-  own, with a background drawn by a script), plus in-game pictures, which
-  are © their respective owners and shown only to identify the game.
+  own, with a background drawn by a script), plus the box cover and in-game
+  pictures, which are © their respective owners and shown only to identify
+  the game.
 - **No game assets are distributed.** The release contains the port's own
   program and the licences of the open-source libraries it uses. Every
   graphic, sound and text is read at run time from your own disc image. The
